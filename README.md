@@ -6,7 +6,7 @@ NVIDIA Jetson Nano
 
 ## 常見指令
 查看目錄 `ls`  
-進入資料夾 `cd *`  
+進入資料夾 `cd`  
 開nano程式編輯器 `nano *.py`  
 執行 `python3 *.py`  
 關機 `sudo shutdown now`
