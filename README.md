@@ -1,5 +1,5 @@
 # IoT_Projects
-NVIDIA Jetson Nano  
+NVIDIA Jetson Nano 的學習路程整理  
 ## Link
 + [W1：開發環境](https://github.com/06160193/IoT_Projects/blob/main/W1：開發環境/README_W1.md)
 + [W2：GPIO程式](https://github.com/06160193/IoT_Projects/blob/main/W2：GPIO程式/README_W2.md)
