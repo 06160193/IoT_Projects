@@ -11,3 +11,7 @@ NVIDIA Jetson Nano 的學習路程整理
 開nano程式編輯器 `nano *.py`  
 執行 `python3 *.py`  
 關機 `sudo shutdown now`
+下載github`git clone https://github.com/⋯/⋯.git`
+
+##
+- [中華電信IoT大平台](https://iot.cht.com.tw)
