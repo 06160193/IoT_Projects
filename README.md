@@ -4,7 +4,7 @@ NVIDIA Jetson Nano 的學習路程整理
 + [W1：開發環境](https://github.com/06160193/IoT_Projects/blob/main/W1：開發環境/README_W1.md)
 + [W2：GPIO程式](https://github.com/06160193/IoT_Projects/blob/main/W2：GPIO程式/README_W2.md)
 + [W3：GPIO程式設計](https://github.com/06160193/IoT_Projects/blob/main/W3：GPIO程式設計/README_W3.md)
-+ [W4：IoT平台](IoT_Projects/blob/main/W4：IoT平台/README_W4.md)
++ [W4：IoT平台](W4：IoT平台/README_W4.md)
 
 ## 常見指令
 查看目錄 `ls`  
