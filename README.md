@@ -9,7 +9,7 @@ NVIDIA Jetson Nano 的學習路程整理
 查看目錄 `ls`  
 進入資料夾 `cd 資料夾`、跳出資料夾 `cd`   
 開nano程式編輯器 `nano ⋯.py`  
-執行 `python3 ⋯.py`  
+用python執行 `python3 ⋯.py`  
 下載github`git clone https://github.com/⋯/⋯.git`   
 關機 `sudo shutdown now`  
 
