@@ -5,8 +5,7 @@
 cd ~
 git clone https://github.com/adafruit/Adafruit_CircuitPython_DHT.git
 cd Adafruit_CircuitPython_DHT
-sudo python3 setup.py install
-`  
+sudo python3 setup.py install`  
 安裝所需軟體
 `
 $ sudo apt-get update
