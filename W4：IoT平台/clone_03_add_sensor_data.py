@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import requests
 import numpy as np
 import time
@@ -19,8 +18,6 @@ headers = {
     "Content-Type": "application/json",
 }   
 
-
-
 while True:
     humidity, temperature = Adafruit_DHT.read_retry(22, 4)
     if humidity is not None and temperature is not None:
@@ -28,10 +25,9 @@ while True:
         time.sleep(1)
     else:
         print('Failed to get reading. Try again!')
-    t = str(time.strftime("%Y-%m-%dT%H:%M:%S"))
     
+    t = str(time.strftime("%Y-%m-%dT%H:%M:%S"))
     payload=[{"id":"Temp", "value":[round(temperature,1)]},{"id":"Hum", "value":[round(humidity,1)]}]
-
 
     response = requests.post(apiURL, headers=headers, data=json.dumps(payload))
     print(response.text)
