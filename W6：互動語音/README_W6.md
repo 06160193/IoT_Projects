@@ -18,3 +18,17 @@ $ espeak ‐‐stdout "hello world" | aplay
 $ espeak ‐‐stdout ‐vzh "你好" | aplay
 $ espeak ‐‐stdout ‐f hello.txt | aplay
 ```  
+## Google Assistant SDK
+安裝
+```
+$ sudo pip3 install gTTS
+$ sudo apt‐get install ‐y mpg321
+```
+測試：建立一個test_gtts.py檔案
+```
+from gtts import gTTS
+import os
+tts=gTTS(text=‘測試文字轉語音’, lang=‘zh‐tw’)
+tts.save(“test.mp3”)
+os.system("mpg321 test.mp3")
+```
