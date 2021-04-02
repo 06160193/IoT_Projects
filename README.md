@@ -21,3 +21,4 @@ NVIDIA Jetson Nano 的學習路程整理
 ***
 ##
 - [中華電信IoT大平台](https://iot.cht.com.tw)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
