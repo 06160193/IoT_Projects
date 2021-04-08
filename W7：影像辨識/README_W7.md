@@ -13,3 +13,12 @@ git clone https://github.com/NVIDIA-AI-IOT/jetcam
 cd jetcam
 sudo python3 setup.py install
 ```
+***
+## Framework
++ [TensorFlow](https://www.tensorflow.org/learn?hl=zh-tw)
++ [Keras](https://www.tensorflow.org/guide/keras?hl=zh-tw)
++ [PyTorch](https://pytorch.org/)
++ [github](https://github.com/tensorflow/tensorflow)
+## Google Colab
++ [Google Colaboratory notebook](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)
++ https://drive.google.com/file/u/0/d/1DaJ4sFP1r4BGNL-0sxL6OiRBgZ8vNgwl/edit
