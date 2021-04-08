@@ -7,6 +7,7 @@ NVIDIA Jetson Nano 的學習路程整理
 + [W4：IoT平台](W4：IoT平台/README_W4.md)
 + [W5：資料視覺化](W5：資料視覺化/README_W5.md)
 + [W6：互動語音](W6：互動語音/README_W6.md)
++ [W7：影像辨識](W7：影像辨識/README_W7.md)
 
 ## 常見指令
 查看目錄 `ls`  
