@@ -11,10 +11,10 @@ NVIDIA Jetson Nano 的學習路程整理
 
 ## 常見指令
 查看目錄 `ls`  
-進入資料夾 `cd 資料夾`、跳出資料夾 `cd`   
-開nano程式編輯器 `nano ⋯.py`  
-用python執行 `python3 ⋯.py`  
+進入資料夾 `cd 資料夾` 、跳出資料夾 `cd`   
+開nano程式編輯器 `nano ⋯.py` 、用python執行 `python3 ⋯.py`  
 下載github`git clone https://github.com/⋯/⋯.git`   
+解壓縮zip`unzip ⋯.zip`  
 關機 `sudo shutdown now`  
 
 
